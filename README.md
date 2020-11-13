@@ -12,6 +12,7 @@ by Elias Fernandez-Combarro Alvarez (Universidad de Oviedo (ES)
 - [Access to lectures](https://indico.cern.ch/event/970903/)
 - [Quirk](https://algassert.com/quirk)
 - [Quiskit](https://qiskit.org/)
+- [Installing Quiskit](https://qiskit.org/documentation/install.html)
 - [IBM Quantum Experience](https://quantum-computing.ibm.com/)
 - [Google Colab](https://colab.research.google.com/)
 
