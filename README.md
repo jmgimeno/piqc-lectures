@@ -16,6 +16,11 @@ by Elias Fernandez-Combarro Alvarez (Universidad de Oviedo (ES)
 - [IBM Quantum Experience](https://quantum-computing.ibm.com/)
 - [Google Colab](https://colab.research.google.com/)
 
+## Recordings
+
+- [Lecture 1](https://youtu.be/jwHM8AHOtJ0)
+- [Lecture 2](https://youtu.be/SPQ-rvtaREs)
+
 ## Dockerized Qiskit-notebook
 
     docker pull sanori/qiskit-notebook
@@ -34,7 +39,7 @@ You can save Jupyter notebooks in the current directory by attaching the current
 
     docker run -it --rm -p 8888:8888 -v "$PWD":/home/jovyan/work sanori/qiskit-notebook
 
-## IBM QUantum Experience
+## IBM Quantum Experience
 
 Before using the IBMQ provider, we must register our account.
 
