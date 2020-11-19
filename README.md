@@ -43,7 +43,7 @@ You can save Jupyter notebooks in the current directory by attaching the current
 
 Before using the IBMQ provider, we must register our account.
 
-    IBMQ.delete_accounts() # only after generating new token
+    IBMQ.delete_account() # only after generating new token
     IBMQ.save_account("<token>")
 
 will do the trick.
