@@ -15,12 +15,16 @@ by Elias Fernandez-Combarro Alvarez (Universidad de Oviedo (ES)
 - [Installing Quiskit](https://qiskit.org/documentation/install.html)
 - [IBM Quantum Experience](https://quantum-computing.ibm.com/)
 - [Google Colab](https://colab.research.google.com/)
+- [D-Wave's Leap](https://www.dwavesys.com/take-leap)
+  - [MaxCut example with D-Leap](https://bit.ly/3dPos2L)
 
 ## Recordings
 
 - [Lecture 1](https://youtu.be/jwHM8AHOtJ0)
 - [Lecture 2](https://youtu.be/SPQ-rvtaREs)
 - [Lecture 3](https://youtu.be/wX_vmpbQGU4)
+- [Lecture 4](https://youtu.be/a7L2m2qlEIw)
+- [Lecture 5](https://youtu.be/LFewKe_tWME)
 
 ## Dockerized Qiskit-notebook
 
