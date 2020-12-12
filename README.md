@@ -17,6 +17,7 @@ by Elias Fernandez-Combarro Alvarez (Universidad de Oviedo (ES)
 - [Google Colab](https://colab.research.google.com/)
 - [D-Wave's Leap](https://www.dwavesys.com/take-leap)
   - [MaxCut example with D-Leap](https://bit.ly/3dPos2L)
+- [Sau Lan Wu - HEP Analysis at LHC w/ Quantum Machine Learning on Q. Computer Simulators & Q. Hardware](https://youtu.be/rwZrmSs2nO8)
 
 ## Recordings
 
@@ -25,6 +26,7 @@ by Elias Fernandez-Combarro Alvarez (Universidad de Oviedo (ES)
 - [Lecture 3](https://youtu.be/wX_vmpbQGU4)
 - [Lecture 4](https://youtu.be/a7L2m2qlEIw)
 - [Lecture 5](https://youtu.be/LFewKe_tWME)
+- [Lecture 6](https://youtu.be/I6xnxUSubD0)
 
 ## Dockerized Qiskit-notebook
 
