@@ -27,6 +27,7 @@ by Elias Fernandez-Combarro Alvarez (Universidad de Oviedo (ES)
 - [Lecture 4](https://youtu.be/a7L2m2qlEIw)
 - [Lecture 5](https://youtu.be/LFewKe_tWME)
 - [Lecture 6](https://youtu.be/I6xnxUSubD0)
+- [Lecture 7](https://youtu.be/vy7oF70FCxQ)
 
 ## Dockerized Qiskit-notebook
 
